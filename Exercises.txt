@@ -1,0 +1,9 @@
+EXERCISES:
+
+2.1 Exercise 1: 
+- When creating a Docker container without specifiying a name, it created the container with the name "trusting_napier"
+- Docker didn't remove the container by using the command "Docker -rm 3e43eae2d242"
+- Using "Docker -rm trusting napier" to remove the container also did not work
+- Deleted the container by opening Docker Desktop GUI and removing the container 
+
+
